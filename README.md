@@ -36,4 +36,8 @@ $ You can find index for the book you want to download throught this website:
 ![3.png : Gutenberg website with index download file](https://github.com/BunlongCHEA/.NET_FTPDownloadBookFrom_Gutenberg/blob/master/Img_README/3.png)
 
 3. Mouse double click on Book you want to read and download
+
+![4.png : DOUBLE Mouse click to view book file](https://github.com/BunlongCHEA/.NET_FTPDownloadBookFrom_Gutenberg/blob/master/Img_README/4.png)
 4. Click on button download and choose local directory for save as PDF book
+
+![5.png : Download book as PDF file](https://github.com/BunlongCHEA/.NET_FTPDownloadBookFrom_Gutenberg/blob/master/Img_README/5.png)
