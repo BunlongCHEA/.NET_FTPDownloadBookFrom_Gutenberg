@@ -1,4 +1,4 @@
-# I. Purpose of the .NET (v.4.8) WindowForm
+# I. Purpose of the .NET (v.4.8) WindowForm As Mini-Project
 
 This is mini project using FTP lib in .NET C# to view and download book as PDF to find official book you want
 
@@ -35,9 +35,13 @@ $ You can find index for the book you want to download throught this website:
 
 ![3.png : Gutenberg website with index download file](https://github.com/BunlongCHEA/.NET_FTPDownloadBookFrom_Gutenberg/blob/master/Img_README/3.png)
 
-3. Mouse double click on Book you want to read and download
+## Step 2: Mouse Double Click On Book
+You can double click on any book that already add to the list for view first:
 
 ![4.png : DOUBLE Mouse click to view book file](https://github.com/BunlongCHEA/.NET_FTPDownloadBookFrom_Gutenberg/blob/master/Img_README/4.png)
-4. Click on button download and choose local directory for save as PDF book
+## Step 3: Download Book As PDF
+Click on button download and choose local directory for save as PDF book:
 
 ![5.png : Download book as PDF file](https://github.com/BunlongCHEA/.NET_FTPDownloadBookFrom_Gutenberg/blob/master/Img_README/5.png)
+
+This is the end of the Mini-Project, Thank you for reading...
