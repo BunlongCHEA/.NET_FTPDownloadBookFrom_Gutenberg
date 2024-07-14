@@ -1,4 +1,4 @@
-# I. Purpose of the .NET (v.4.8) WindowForm As Mini-Project
+# I. Purpose of the .NET (v.4.8) WindowForm As Mini-Projects
 
 This is mini project using FTP lib in .NET C# to view and download book as PDF to find official book you want
 
